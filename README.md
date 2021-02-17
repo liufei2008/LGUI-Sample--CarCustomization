@@ -3,7 +3,7 @@
 
 This project using UE4.24 and LGUI 2.10.0
 
-![](https://github.com/liufei2008/LGUI-Sample--CarCustomization/blob/master/LGUI-CarCustomization.jpg)
+![](LGUI-CarCustomization.jpg)
 
 Check video:
 
